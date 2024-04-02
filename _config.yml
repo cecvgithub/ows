@@ -2,6 +2,5 @@ remote_theme: daviddarnes/garth
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [CECV Online Worship Service]
 description: [For those who wangt to worship with CECV online]
 include: README.md
